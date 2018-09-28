@@ -27,7 +27,7 @@ export class PeopleComponent implements OnInit {
     // .subscribe(
     //   data => this.people$ = data
     // );
-    console.log(this.people[0])
+    console.log(this.people)
   }
 
 }
